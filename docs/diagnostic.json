@@ -1,0 +1,1143 @@
+{
+  "exportedAt": "2026-04-17T02:03:32.423Z",
+  "currentState": "ORDER_SUCCESS",
+  "transitionHistory": [
+    {
+      "state": "CART_READY",
+      "at": "2026-04-17T00:37:35.695Z",
+      "reason": "cart edit mode"
+    },
+    {
+      "state": "CHECKOUT_VALIDATED",
+      "at": "2026-04-17T00:37:54.904Z",
+      "reason": "checkout accepted"
+    },
+    {
+      "state": "ORDER_SUBMITTED",
+      "at": "2026-04-17T00:37:57.944Z",
+      "reason": "submission started"
+    },
+    {
+      "state": "ORDER_FAILED",
+      "at": "2026-04-17T00:37:59.960Z",
+      "reason": "submission failed"
+    },
+    {
+      "state": "CHECKOUT_VALIDATED",
+      "at": "2026-04-17T00:38:06.520Z",
+      "reason": "checkout accepted"
+    },
+    {
+      "state": "ORDER_SUBMITTED",
+      "at": "2026-04-17T00:38:07.360Z",
+      "reason": "submission started"
+    },
+    {
+      "state": "ORDER_SUCCESS",
+      "at": "2026-04-17T00:38:09.916Z",
+      "reason": "order completed"
+    },
+    {
+      "state": "CART_READY",
+      "at": "2026-04-17T00:38:19.704Z",
+      "reason": "cart edit mode"
+    },
+    {
+      "state": "CART_READY",
+      "at": "2026-04-17T00:38:30.622Z",
+      "reason": "cart edit mode"
+    },
+    {
+      "state": "CHECKOUT_VALIDATED",
+      "at": "2026-04-17T00:38:49.745Z",
+      "reason": "checkout accepted"
+    },
+    {
+      "state": "ORDER_SUBMITTED",
+      "at": "2026-04-17T00:38:51.105Z",
+      "reason": "submission started"
+    },
+    {
+      "state": "ORDER_FAILED",
+      "at": "2026-04-17T00:38:53.489Z",
+      "reason": "submission failed"
+    },
+    {
+      "state": "ROLLED_BACK",
+      "at": "2026-04-17T00:39:00.970Z",
+      "reason": "rollback complete"
+    },
+    {
+      "state": "CART_READY",
+      "at": "2026-04-17T00:39:03.834Z",
+      "reason": "cart edit mode"
+    },
+    {
+      "state": "CART_READY",
+      "at": "2026-04-17T00:39:15.144Z",
+      "reason": "cart edit mode"
+    },
+    {
+      "state": "CART_READY",
+      "at": "2026-04-17T01:25:46.845Z",
+      "reason": "cart edit mode"
+    },
+    {
+      "state": "CHECKOUT_VALIDATED",
+      "at": "2026-04-17T01:25:56.737Z",
+      "reason": "checkout accepted"
+    },
+    {
+      "state": "ORDER_SUBMITTED",
+      "at": "2026-04-17T01:25:57.672Z",
+      "reason": "submission started"
+    },
+    {
+      "state": "ORDER_FAILED",
+      "at": "2026-04-17T01:25:59.675Z",
+      "reason": "submission failed"
+    },
+    {
+      "state": "ROLLED_BACK",
+      "at": "2026-04-17T01:26:07.425Z",
+      "reason": "rollback complete"
+    },
+    {
+      "state": "CART_READY",
+      "at": "2026-04-17T01:26:08.872Z",
+      "reason": "cart edit mode"
+    },
+    {
+      "state": "CHECKOUT_VALIDATED",
+      "at": "2026-04-17T01:26:10.408Z",
+      "reason": "checkout accepted"
+    },
+    {
+      "state": "ORDER_SUBMITTED",
+      "at": "2026-04-17T01:26:12.552Z",
+      "reason": "submission started"
+    },
+    {
+      "state": "ORDER_SUCCESS",
+      "at": "2026-04-17T01:26:15.112Z",
+      "reason": "order completed"
+    },
+    {
+      "state": "CART_READY",
+      "at": "2026-04-17T01:26:41.130Z",
+      "reason": "cart edit mode"
+    },
+    {
+      "state": "CHECKOUT_VALIDATED",
+      "at": "2026-04-17T01:26:42.561Z",
+      "reason": "checkout accepted"
+    },
+    {
+      "state": "ORDER_SUBMITTED",
+      "at": "2026-04-17T01:26:43.129Z",
+      "reason": "submission started"
+    },
+    {
+      "state": "ORDER_FAILED",
+      "at": "2026-04-17T01:26:47.418Z",
+      "reason": "submission failed"
+    },
+    {
+      "state": "ORDER_FAILED",
+      "at": "2026-04-17T01:34:06.676Z",
+      "reason": "submission failed"
+    },
+    {
+      "state": "ROLLED_BACK",
+      "at": "2026-04-17T01:34:18.430Z",
+      "reason": "rollback complete"
+    },
+    {
+      "state": "CART_READY",
+      "at": "2026-04-17T01:34:20.357Z",
+      "reason": "cart edit mode"
+    },
+    {
+      "state": "CHECKOUT_VALIDATED",
+      "at": "2026-04-17T01:34:22.429Z",
+      "reason": "checkout accepted"
+    },
+    {
+      "state": "ORDER_SUBMITTED",
+      "at": "2026-04-17T01:34:23.613Z",
+      "reason": "submission started"
+    },
+    {
+      "state": "ORDER_SUCCESS",
+      "at": "2026-04-17T01:34:26.245Z",
+      "reason": "order completed"
+    },
+    {
+      "state": "CART_READY",
+      "at": "2026-04-17T01:36:04.631Z",
+      "reason": "cart edit mode"
+    },
+    {
+      "state": "CHECKOUT_VALIDATED",
+      "at": "2026-04-17T01:36:10.015Z",
+      "reason": "checkout accepted"
+    },
+    {
+      "state": "ORDER_SUBMITTED",
+      "at": "2026-04-17T01:36:11.968Z",
+      "reason": "submission started"
+    },
+    {
+      "state": "ORDER_SUCCESS",
+      "at": "2026-04-17T01:36:14.872Z",
+      "reason": "order completed"
+    },
+    {
+      "state": "ORDER_SUCCESS",
+      "at": "2026-04-17T01:44:33.195Z",
+      "reason": "order completed"
+    },
+    {
+      "state": "ORDER_SUCCESS",
+      "at": "2026-04-17T01:45:34.558Z",
+      "reason": "order completed"
+    },
+    {
+      "state": "ORDER_SUCCESS",
+      "at": "2026-04-17T01:45:48.378Z",
+      "reason": "order completed"
+    },
+    {
+      "state": "ORDER_SUCCESS",
+      "at": "2026-04-17T01:46:25.932Z",
+      "reason": "order completed"
+    },
+    {
+      "state": "ORDER_SUCCESS",
+      "at": "2026-04-17T01:46:37.675Z",
+      "reason": "order completed"
+    }
+  ],
+  "cartMetadata": {
+    "itemCount": 3,
+    "checksum": "18d7e2d6",
+    "version": 1776390397670,
+    "lastUpdatedAt": "2026-04-17T01:46:37.669Z"
+  },
+  "recentLogs": [
+    {
+      "id": "1776386327960-76918",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T00:38:47.960Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "CART_READY",
+        "productId": 1
+      }
+    },
+    {
+      "id": "1776386328753-86947",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T00:38:48.753Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "CART_READY",
+        "productId": 2
+      }
+    },
+    {
+      "id": "1776386329744-36115",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T00:38:49.744Z",
+      "metadata": {
+        "eventType": "VALIDATE_CHECKOUT",
+        "stateBefore": "CART_READY"
+      }
+    },
+    {
+      "id": "1776386329745-98660",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T00:38:49.745Z",
+      "metadata": {
+        "state": "CHECKOUT_VALIDATED",
+        "reason": "checkout accepted",
+        "cartItems": 2,
+        "cartVersion": 1776386328753,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776386331105-6420",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T00:38:51.105Z",
+      "metadata": {
+        "eventType": "SUBMIT_ORDER",
+        "stateBefore": "CHECKOUT_VALIDATED"
+      }
+    },
+    {
+      "id": "1776386331105-23298",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T00:38:51.105Z",
+      "metadata": {
+        "state": "ORDER_SUBMITTED",
+        "reason": "submission started",
+        "cartItems": 2,
+        "cartVersion": 1776386328753,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776386333489-20254",
+      "category": "system",
+      "event": "order_submission_failed",
+      "timestamp": "2026-04-17T00:38:53.489Z",
+      "metadata": {
+        "kind": "UPSTREAM_FAILURE",
+        "message": "Failed to fetch"
+      }
+    },
+    {
+      "id": "1776386333489-15527",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T00:38:53.489Z",
+      "metadata": {
+        "state": "ORDER_FAILED",
+        "reason": "submission failed",
+        "cartItems": 2,
+        "cartVersion": 1776386328753,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776386340969-79773",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T00:39:00.969Z",
+      "metadata": {
+        "eventType": "ROLLBACK",
+        "stateBefore": "ORDER_FAILED"
+      }
+    },
+    {
+      "id": "1776386340970-18148",
+      "category": "system",
+      "event": "rollback_applied",
+      "timestamp": "2026-04-17T00:39:00.970Z",
+      "metadata": {
+        "restoredVersion": 1776386328753,
+        "restoredItems": 2
+      }
+    },
+    {
+      "id": "1776386340970-36836",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T00:39:00.970Z",
+      "metadata": {
+        "state": "ROLLED_BACK",
+        "reason": "rollback complete",
+        "cartItems": 2,
+        "cartVersion": 1776386328753,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776386343834-73016",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T00:39:03.834Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "ROLLED_BACK",
+        "productId": 1
+      }
+    },
+    {
+      "id": "1776386343834-96201",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T00:39:03.834Z",
+      "metadata": {
+        "state": "CART_READY",
+        "reason": "cart edit mode",
+        "cartItems": 2,
+        "cartVersion": 1776386343834,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776386355178-33451",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T00:39:15.178Z",
+      "metadata": {
+        "state": "CART_READY",
+        "reason": "cart edit mode",
+        "cartItems": 2,
+        "cartVersion": 1776386355141,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776386355214-34697",
+      "category": "system",
+      "event": "products_loaded",
+      "timestamp": "2026-04-17T00:39:15.214Z",
+      "metadata": {
+        "source": "network",
+        "count": 800
+      }
+    },
+    {
+      "id": "1776389146937-78271",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:25:46.937Z",
+      "metadata": {
+        "state": "CART_READY",
+        "reason": "cart edit mode",
+        "cartItems": 2,
+        "cartVersion": 1776389146842,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776389146999-26142",
+      "category": "system",
+      "event": "products_loaded",
+      "timestamp": "2026-04-17T01:25:46.999Z",
+      "metadata": {
+        "source": "network",
+        "count": 800
+      }
+    },
+    {
+      "id": "1776389156736-74936",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:25:56.736Z",
+      "metadata": {
+        "eventType": "VALIDATE_CHECKOUT",
+        "stateBefore": "CART_READY"
+      }
+    },
+    {
+      "id": "1776389156737-98298",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:25:56.737Z",
+      "metadata": {
+        "state": "CHECKOUT_VALIDATED",
+        "reason": "checkout accepted",
+        "cartItems": 2,
+        "cartVersion": 1776389146842,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389157672-18100",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:25:57.672Z",
+      "metadata": {
+        "eventType": "SUBMIT_ORDER",
+        "stateBefore": "CHECKOUT_VALIDATED"
+      }
+    },
+    {
+      "id": "1776389157672-10425",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:25:57.672Z",
+      "metadata": {
+        "state": "ORDER_SUBMITTED",
+        "reason": "submission started",
+        "cartItems": 2,
+        "cartVersion": 1776389146842,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389159674-83872",
+      "category": "system",
+      "event": "order_submission_failed",
+      "timestamp": "2026-04-17T01:25:59.674Z",
+      "metadata": {
+        "kind": "UPSTREAM_FAILURE",
+        "message": "Simulated 10% upstream failure"
+      }
+    },
+    {
+      "id": "1776389159675-38585",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:25:59.675Z",
+      "metadata": {
+        "state": "ORDER_FAILED",
+        "reason": "submission failed",
+        "cartItems": 2,
+        "cartVersion": 1776389146842,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389167424-39748",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:26:07.424Z",
+      "metadata": {
+        "eventType": "ROLLBACK",
+        "stateBefore": "ORDER_FAILED"
+      }
+    },
+    {
+      "id": "1776389167424-75869",
+      "category": "system",
+      "event": "rollback_applied",
+      "timestamp": "2026-04-17T01:26:07.424Z",
+      "metadata": {
+        "restoredVersion": 1776389146842,
+        "restoredItems": 2
+      }
+    },
+    {
+      "id": "1776389167425-25766",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:26:07.425Z",
+      "metadata": {
+        "state": "ROLLED_BACK",
+        "reason": "rollback complete",
+        "cartItems": 2,
+        "cartVersion": 1776389146842,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776389168872-43977",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:26:08.872Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "ROLLED_BACK",
+        "productId": 1
+      }
+    },
+    {
+      "id": "1776389168872-92748",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:26:08.872Z",
+      "metadata": {
+        "state": "CART_READY",
+        "reason": "cart edit mode",
+        "cartItems": 2,
+        "cartVersion": 1776389168872,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776389169376-28117",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:26:09.376Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "CART_READY",
+        "productId": 2
+      }
+    },
+    {
+      "id": "1776389170408-54733",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:26:10.408Z",
+      "metadata": {
+        "eventType": "VALIDATE_CHECKOUT",
+        "stateBefore": "CART_READY"
+      }
+    },
+    {
+      "id": "1776389170408-10812",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:26:10.408Z",
+      "metadata": {
+        "state": "CHECKOUT_VALIDATED",
+        "reason": "checkout accepted",
+        "cartItems": 2,
+        "cartVersion": 1776389169376,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389172552-57877",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:26:12.552Z",
+      "metadata": {
+        "eventType": "SUBMIT_ORDER",
+        "stateBefore": "CHECKOUT_VALIDATED"
+      }
+    },
+    {
+      "id": "1776389172552-99754",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:26:12.552Z",
+      "metadata": {
+        "state": "ORDER_SUBMITTED",
+        "reason": "submission started",
+        "cartItems": 2,
+        "cartVersion": 1776389169376,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389175112-9090",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:26:15.112Z",
+      "metadata": {
+        "state": "ORDER_SUCCESS",
+        "reason": "order completed",
+        "cartItems": 2,
+        "cartVersion": 1776389169376,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776389201129-92872",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:26:41.129Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "ORDER_SUCCESS",
+        "productId": 1
+      }
+    },
+    {
+      "id": "1776389201130-95005",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:26:41.130Z",
+      "metadata": {
+        "state": "CART_READY",
+        "reason": "cart edit mode",
+        "cartItems": 1,
+        "cartVersion": 1776389201131,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776389202137-7601",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:26:42.137Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "CART_READY",
+        "productId": 2
+      }
+    },
+    {
+      "id": "1776389202561-13558",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:26:42.561Z",
+      "metadata": {
+        "eventType": "VALIDATE_CHECKOUT",
+        "stateBefore": "CART_READY"
+      }
+    },
+    {
+      "id": "1776389202561-56965",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:26:42.561Z",
+      "metadata": {
+        "state": "CHECKOUT_VALIDATED",
+        "reason": "checkout accepted",
+        "cartItems": 2,
+        "cartVersion": 1776389202137,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389203129-52346",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:26:43.129Z",
+      "metadata": {
+        "eventType": "SUBMIT_ORDER",
+        "stateBefore": "CHECKOUT_VALIDATED"
+      }
+    },
+    {
+      "id": "1776389203129-47046",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:26:43.129Z",
+      "metadata": {
+        "state": "ORDER_SUBMITTED",
+        "reason": "submission started",
+        "cartItems": 2,
+        "cartVersion": 1776389202137,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389207417-88368",
+      "category": "system",
+      "event": "order_submission_failed",
+      "timestamp": "2026-04-17T01:26:47.417Z",
+      "metadata": {
+        "kind": "UPSTREAM_FAILURE",
+        "message": "Failed to fetch"
+      }
+    },
+    {
+      "id": "1776389207418-67460",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:26:47.418Z",
+      "metadata": {
+        "state": "ORDER_FAILED",
+        "reason": "submission failed",
+        "cartItems": 2,
+        "cartVersion": 1776389202137,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389646815-74791",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:34:06.815Z",
+      "metadata": {
+        "state": "ORDER_FAILED",
+        "reason": "submission failed",
+        "cartItems": 2,
+        "cartVersion": 1776389646671,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389646923-95048",
+      "category": "system",
+      "event": "products_loaded",
+      "timestamp": "2026-04-17T01:34:06.923Z",
+      "metadata": {
+        "source": "network",
+        "count": 800
+      }
+    },
+    {
+      "id": "1776389658429-32954",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:34:18.429Z",
+      "metadata": {
+        "eventType": "ROLLBACK",
+        "stateBefore": "ORDER_FAILED"
+      }
+    },
+    {
+      "id": "1776389658429-57840",
+      "category": "system",
+      "event": "rollback_applied",
+      "timestamp": "2026-04-17T01:34:18.429Z",
+      "metadata": {
+        "restoredVersion": 1776389646671,
+        "restoredItems": 2
+      }
+    },
+    {
+      "id": "1776389658430-96557",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:34:18.430Z",
+      "metadata": {
+        "state": "ROLLED_BACK",
+        "reason": "rollback complete",
+        "cartItems": 2,
+        "cartVersion": 1776389646671,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776389660356-35482",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:34:20.356Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "ROLLED_BACK",
+        "productId": 1
+      }
+    },
+    {
+      "id": "1776389660357-61964",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:34:20.357Z",
+      "metadata": {
+        "state": "CART_READY",
+        "reason": "cart edit mode",
+        "cartItems": 2,
+        "cartVersion": 1776389660357,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776389661004-84134",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:34:21.004Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "CART_READY",
+        "productId": 2
+      }
+    },
+    {
+      "id": "1776389662428-28085",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:34:22.428Z",
+      "metadata": {
+        "eventType": "VALIDATE_CHECKOUT",
+        "stateBefore": "CART_READY"
+      }
+    },
+    {
+      "id": "1776389662429-10351",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:34:22.429Z",
+      "metadata": {
+        "state": "CHECKOUT_VALIDATED",
+        "reason": "checkout accepted",
+        "cartItems": 2,
+        "cartVersion": 1776389661005,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389663612-57545",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:34:23.612Z",
+      "metadata": {
+        "eventType": "SUBMIT_ORDER",
+        "stateBefore": "CHECKOUT_VALIDATED"
+      }
+    },
+    {
+      "id": "1776389663613-27706",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:34:23.613Z",
+      "metadata": {
+        "state": "ORDER_SUBMITTED",
+        "reason": "submission started",
+        "cartItems": 2,
+        "cartVersion": 1776389661005,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389666245-63260",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:34:26.245Z",
+      "metadata": {
+        "state": "ORDER_SUCCESS",
+        "reason": "order completed",
+        "cartItems": 2,
+        "cartVersion": 1776389661005,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776389764631-84345",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:36:04.631Z",
+      "metadata": {
+        "eventType": "RESET",
+        "stateBefore": "ORDER_SUCCESS"
+      }
+    },
+    {
+      "id": "1776389764632-59804",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:36:04.632Z",
+      "metadata": {
+        "state": "CART_READY",
+        "reason": "cart edit mode",
+        "cartItems": 0,
+        "cartVersion": 1776389764631,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776389765743-5932",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:36:05.743Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "CART_READY",
+        "productId": 4
+      }
+    },
+    {
+      "id": "1776389766343-56054",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:36:06.343Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "CART_READY",
+        "productId": 5
+      }
+    },
+    {
+      "id": "1776389766903-91277",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:36:06.903Z",
+      "metadata": {
+        "eventType": "ADD_ITEM",
+        "stateBefore": "CART_READY",
+        "productId": 6
+      }
+    },
+    {
+      "id": "1776389768207-84539",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:36:08.207Z",
+      "metadata": {
+        "eventType": "UPDATE_QUANTITY",
+        "stateBefore": "CART_READY"
+      }
+    },
+    {
+      "id": "1776389768391-72827",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:36:08.391Z",
+      "metadata": {
+        "eventType": "UPDATE_QUANTITY",
+        "stateBefore": "CART_READY"
+      }
+    },
+    {
+      "id": "1776389768567-64703",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:36:08.567Z",
+      "metadata": {
+        "eventType": "UPDATE_QUANTITY",
+        "stateBefore": "CART_READY"
+      }
+    },
+    {
+      "id": "1776389768743-58735",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:36:08.743Z",
+      "metadata": {
+        "eventType": "UPDATE_QUANTITY",
+        "stateBefore": "CART_READY"
+      }
+    },
+    {
+      "id": "1776389770015-6880",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:36:10.015Z",
+      "metadata": {
+        "eventType": "VALIDATE_CHECKOUT",
+        "stateBefore": "CART_READY"
+      }
+    },
+    {
+      "id": "1776389770015-61576",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:36:10.015Z",
+      "metadata": {
+        "state": "CHECKOUT_VALIDATED",
+        "reason": "checkout accepted",
+        "cartItems": 3,
+        "cartVersion": 1776389768743,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389771967-19167",
+      "category": "transition",
+      "event": "event_dispatched",
+      "timestamp": "2026-04-17T01:36:11.967Z",
+      "metadata": {
+        "eventType": "SUBMIT_ORDER",
+        "stateBefore": "CHECKOUT_VALIDATED"
+      }
+    },
+    {
+      "id": "1776389771968-55268",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:36:11.968Z",
+      "metadata": {
+        "state": "ORDER_SUBMITTED",
+        "reason": "submission started",
+        "cartItems": 3,
+        "cartVersion": 1776389768743,
+        "idempotencyKeyPresent": true
+      }
+    },
+    {
+      "id": "1776389774872-41968",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:36:14.872Z",
+      "metadata": {
+        "state": "ORDER_SUCCESS",
+        "reason": "order completed",
+        "cartItems": 3,
+        "cartVersion": 1776389768743,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776390273450-61375",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:44:33.450Z",
+      "metadata": {
+        "state": "ORDER_SUCCESS",
+        "reason": "order completed",
+        "cartItems": 3,
+        "cartVersion": 1776390273190,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776390273653-18650",
+      "category": "system",
+      "event": "products_loaded",
+      "timestamp": "2026-04-17T01:44:33.653Z",
+      "metadata": {
+        "source": "network",
+        "count": 800
+      }
+    },
+    {
+      "id": "1776390334699-75707",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:45:34.699Z",
+      "metadata": {
+        "state": "ORDER_SUCCESS",
+        "reason": "order completed",
+        "cartItems": 3,
+        "cartVersion": 1776390334553,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776390335766-409",
+      "category": "system",
+      "event": "products_loaded",
+      "timestamp": "2026-04-17T01:45:35.766Z",
+      "metadata": {
+        "source": "network",
+        "count": 800
+      }
+    },
+    {
+      "id": "1776390348463-13675",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:45:48.463Z",
+      "metadata": {
+        "state": "ORDER_SUCCESS",
+        "reason": "order completed",
+        "cartItems": 3,
+        "cartVersion": 1776390348373,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776390348668-27033",
+      "category": "system",
+      "event": "products_loaded",
+      "timestamp": "2026-04-17T01:45:48.668Z",
+      "metadata": {
+        "source": "network",
+        "count": 800
+      }
+    },
+    {
+      "id": "1776390386012-10379",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:46:26.012Z",
+      "metadata": {
+        "state": "ORDER_SUCCESS",
+        "reason": "order completed",
+        "cartItems": 3,
+        "cartVersion": 1776390385929,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776390386693-90585",
+      "category": "system",
+      "event": "products_loaded",
+      "timestamp": "2026-04-17T01:46:26.693Z",
+      "metadata": {
+        "source": "network",
+        "count": 800
+      }
+    },
+    {
+      "id": "1776390397740-87211",
+      "category": "transition",
+      "event": "state_entered",
+      "timestamp": "2026-04-17T01:46:37.740Z",
+      "metadata": {
+        "state": "ORDER_SUCCESS",
+        "reason": "order completed",
+        "cartItems": 3,
+        "cartVersion": 1776390397670,
+        "idempotencyKeyPresent": false
+      }
+    },
+    {
+      "id": "1776390397935-65817",
+      "category": "system",
+      "event": "products_loaded",
+      "timestamp": "2026-04-17T01:46:37.935Z",
+      "metadata": {
+        "source": "network",
+        "count": 800
+      }
+    }
+  ]
+}

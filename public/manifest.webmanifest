@@ -1,0 +1,17 @@
+{
+  "name": "Secure Checkout Lifecycle",
+  "short_name": "Checkout",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6fbff",
+  "theme_color": "#0f172a",
+  "description": "Frontend-only secure checkout simulation with state-machine lifecycle.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
